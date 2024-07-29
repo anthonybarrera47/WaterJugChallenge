@@ -22,7 +22,7 @@ Restore the NuGet packages.
 Build the solution to ensure all dependencies are correctly installed.
 ### Usage
 Run the application from Visual Studio by pressing F5 or using the dotnet run command from the terminal.
-Use Swagger UI, which will be available at http://localhost:5000/swagger to interact with the API.
+Use Swagger UI, which will be available at http://localhost:7115/swagger to interact with the API.
 ### Project Architecture
 The project is structured as follows:
 
