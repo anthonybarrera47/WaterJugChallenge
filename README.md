@@ -12,8 +12,10 @@ The **Water Jug Challenge** is a web application that solves the classic water j
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/anthonybarrera47/water-jug-challenge.git 
-cd water-jug-challenge
+git clone https://github.com/anthonybarrera47/WaterJugChallenge.git 
+cd WaterJugChallenge
+Example
+\repos\WaterJugChallenge\WaterJugChallenge
 ```
 
 ### Building the Project
@@ -22,7 +24,7 @@ Restore the NuGet packages.
 Build the solution to ensure all dependencies are correctly installed.
 ### Usage
 Run the application from Visual Studio by pressing F5 or using the dotnet run command from the terminal.
-Use Swagger UI, which will be available at http://localhost:5000/swagger to interact with the API.
+Use Swagger UI, which will be available at http://localhost:7115/swagger to interact with the API.
 ### Project Architecture
 The project is structured as follows:
 
