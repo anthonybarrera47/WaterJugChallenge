@@ -14,7 +14,8 @@ The **Water Jug Challenge** is a web application that solves the classic water j
 ```bash
 git clone https://github.com/anthonybarrera47/WaterJugChallenge.git 
 cd WaterJugChallenge
-![image](https://github.com/user-attachments/assets/cdd00980-939a-4ab3-ae11-bd8689c55b86)
+Example
+\repos\WaterJugChallenge\WaterJugChallenge
 ```
 
 ### Building the Project
